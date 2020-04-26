@@ -54,4 +54,3 @@ const userSchema = new mongoose.Schema(
 );
 
 module.exports = mongoose.model('User', userSchema);
-© 2020 GitHub, Inc.

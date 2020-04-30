@@ -2,11 +2,13 @@ import React from 'react'
 
 const Layout = () => {
   return (
-    <div>
-      
-    </div>
-  )
-}
+    <React.Fragment>
+      <p>header</p>
+      {children}
+      <p>footer</p>
+    </React.Fragment>
+  );
+};
 
 export default Layout
 

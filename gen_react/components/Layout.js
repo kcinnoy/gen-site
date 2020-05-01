@@ -1,6 +1,4 @@
-import React from 'react'
-
-const Layout = () => {
+const Layout = ({children}) => {
   return (
     <React.Fragment>
       <p>header</p>

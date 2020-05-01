@@ -14,29 +14,30 @@ __webpack_require__.r(__webpack_exports__);
 var _this = undefined,
     _jsxFileName = "/Users/MXM/projects/gen-site/gen_react/components/Layout.js";
 
+
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
-
-var Layout = function Layout() {
+var Layout = function Layout(_ref) {
+  var children = _ref.children;
   return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 5,
+      lineNumber: 3,
       columnNumber: 5
     }
   }, __jsx("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6,
+      lineNumber: 4,
       columnNumber: 7
     }
   }, "header"), children, __jsx("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8,
+      lineNumber: 6,
       columnNumber: 7
     }
   }, "footer"));
@@ -124,7 +125,7 @@ var Index = function Index() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 2:
 /*!**********************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2FMXM%2Fprojects%2Fgen-site%2Fgen_react%2Fpages%2Findex.js&hotRouterUpdates=true ***!
   \**********************************************************************************************************************************************************/
@@ -147,5 +148,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
